@@ -1,9 +1,8 @@
 
 <p align="center">
-  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxcheniour)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxcheniour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  this is a test
 </p>
 
+<p>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxcheniour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
